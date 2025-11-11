@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kreativitas dan Inovasi</title>
+  <style>
+    body {
+      font-family: "Poppins", sans-serif;
+      margin: 0;
+      background: linear-gradient(135deg, #009879, #00b894);
+      color: white;
+      text-align: center;
+    }
+    header {
+      padding: 50px 20px;
+    }
+    header h1 {
+      font-size: 2.5rem;
+      margin-bottom: 10px;
+    }
+    section {
+      background: white;
+      color: #2f3640;
+      border-radius: 20px;
+      margin: 20px auto;
+      padding: 30px;
+      max-width: 900px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+      text-align: left;
+    }
+    h2 {
+      color: #009879;
+    }
+    footer {
+      margin-top: 30px;
+      padding: 20px;
+      background: rgba(255, 255, 255, 0.15);
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Kreativitas dan Inovasi</h1>
+    <p>Menemukan Ide, Menciptakan Solusi</p>
+  </header>
+
+  <section>
+    <h2>Pengertian Kreativitas dan Inovasi</h2>
+    <p>
+      Kreativitas adalah kemampuan seseorang untuk menciptakan ide-ide baru, segar, dan orisinal. 
+      Sedangkan inovasi merupakan penerapan dari ide-ide kreatif tersebut ke dalam kehidupan nyata 
+      untuk menghasilkan sesuatu yang bermanfaat. Keduanya saling berkaitan dan menjadi dasar 
+      berkembangnya teknologi, seni, dan kemajuan sosial.
+    </p>
+  </section>
+
+  <section>
+    <h2>Perbedaan Kreativitas dan Inovasi</h2>
+    <p>
+      Kreativitas lebih menitikberatkan pada proses berpikir untuk menemukan ide baru, 
+      sedangkan inovasi lebih pada tindakan nyata untuk menerapkan ide tersebut. 
+      Orang kreatif mampu memunculkan banyak ide, sedangkan orang inovatif mampu 
+      menjadikan ide itu menjadi sesuatu yang berguna bagi masyarakat.
+    </p>
+  </section>
+
+  <section>
+    <h2>Manfaat Kreativitas dan Inovasi</h2>
+    <ul>
+      <li>Meningkatkan kemampuan berpikir kritis dan pemecahan masalah.</li>
+      <li>Mendorong perkembangan teknologi dan kemajuan ekonomi.</li>
+      <li>Menumbuhkan semangat wirausaha dan produktivitas.</li>
+      <li>Membantu seseorang beradaptasi di era digital dan perubahan zaman.</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>Dibuat oleh Fito © 2025 | Untuk pembelajaran & inspirasi</p>
+  </footer>
+</body>
+</html>
